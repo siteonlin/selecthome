@@ -929,7 +929,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rZX3SP3MBD .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
+    max-height: calc(98.5vh - 7.2rem);
   }
 }
 .cid-rZX3SP3MBD .collapsed button.navbar-toggler {
